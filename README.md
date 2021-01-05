@@ -5,6 +5,7 @@ Discord rpc is een rich presance voor discord die makenlijk te instellen is
 ## Requirements
 
 [node.js](https://nodejs.org/en/) 
+
 [Discord](https://discord.com/)
 ```bash
 pip install foobar
